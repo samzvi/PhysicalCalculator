@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using System.Windows.Input;
+using Calculator.ViewModel;
 
 namespace Calculator.Views
 {
